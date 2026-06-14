@@ -1,4 +1,4 @@
-# electromagnetic-particle-simulation
+# Elektromagentische-Partikel-Simulation
 
 Dieses Projekt ist eine numerische Simulation eines klassischen Elektron–Proton-Systems unter dem Einfluss der Coulomb-Kraft sowie der Lorentzkraft in einem externen Magnetfeld. Die Bewegung der geladenen Teilchen wird zeitlich diskret berechnet und in Echtzeit visualisiert.
 
